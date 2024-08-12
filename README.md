@@ -1,0 +1,2 @@
+# INTELLIGENT ATTENDANCE MANAGEMENT SYSTEM
+ This Python project implements a facial recognition-based attendance system using OpenCV and face_recognition libraries. It tracks "Punch In" and "Punch Out" times, ensuring that attendance is only registered once per day or after 8 hours. Attendance records are stored in an Excel file, with each entry including a timestamp and an updated attendance count.
